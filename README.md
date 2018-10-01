@@ -1,7 +1,9 @@
 # unit-test
 
-> A Vue.js project
-
+> A Vue.js test example project
+> include vue-router, vuex
+## Use
+> karma/jasmine/vue-utils-test
 ## Build Setup
 
 ``` bash
