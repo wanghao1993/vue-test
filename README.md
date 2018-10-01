@@ -14,6 +14,9 @@ npm run dev
 # build for production with minification
 npm run build
 
+# start vue unit test
+npm run karma-test
+
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
